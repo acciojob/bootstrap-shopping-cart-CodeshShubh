@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.product{
+	margin-bottom: 5rem;
+}
+
+.summary{
+	border-top: 2px solid #5ea4f3;
+	background-color : #f7fbff;
+}
+
+table{
+	margin: 30px auto 10px;
+	width: 90%;
+	
+}
+.heading-summary{
+	margin-top : 50px;
+	text-align: center;
+}
